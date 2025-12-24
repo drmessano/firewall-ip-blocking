@@ -1,6 +1,6 @@
 #!/usr/sbin/nft -f
 
-## IPSet Non-ARIN IP List
+## nftables Non-ARIN IP List
 ## Murica, Fuck yes
 
 table ip filter {
